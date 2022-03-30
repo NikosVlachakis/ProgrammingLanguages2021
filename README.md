@@ -16,7 +16,7 @@ The goals of the course was to get familiar with different programming languages
 
 
 
-**Contibutors:**
+**Contributors:**
 
 
 | Name
